@@ -1,11 +1,13 @@
 from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-START_MSG = """**Hi {}
+START_MSG = """**Moshi Mosh {}
   
-I am a Media Editor bot ...
+I am a Hitagi Senjougahara, A Media Editor bot...
 
-You can edit/relace the documents,videos,gifs,audios,photos etc… Of Your Channels easily By Using Me**
+You can edit/replace the documents,videos,gifs,audios,photos etc… Of Your Channels easily By Using Me**
+
+You should be grateful to me for that
 
 `For More Info On Usage Hit ➟` /help 
 
@@ -13,13 +15,13 @@ You can edit/relace the documents,videos,gifs,audios,photos etc… Of Your Chann
 
 
 HELP_MSG = """
-Follow the steps...
+Follow the below steps...
 
-🌀First Send Me A Media That You Need To Edit/Replace The Other One
+✂️ First Send me A Media That You Need To Edit/Replace with the Old One (New file which you want on your channel instead)
 
-🌀Send The Link Of The Media That Will Be Replaced/Edited
+✂️ Now Send The Link Of The Media from channel, That Will Be Replaced/Edited (Copy link of old file from channel, and send it to me)
 
-NB: Note both you & the bot must be an admin in the targert channel 
+Note : Both you & I must be an admin in the target Channel where you are doing the replacements.
 
 """
 
