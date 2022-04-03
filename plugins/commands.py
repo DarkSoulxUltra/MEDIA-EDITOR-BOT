@@ -19,7 +19,7 @@ Follow the below steps...
 
 ✂️ First Send me A Media That You Need To Edit/Replace with the Old One (New file which you want on your channel instead)
 
-✂️ Now Send The Link Of The Media from channel, That Will Be Replaced/Edited (Copy link of old file from channel, and send it to me)
+✂️ Then, Send The Link Of The Media from channel, That Will Be Replaced/Edited (Copy link of old file from channel, and send it to me)
 
 Note : Both you & I must be an admin in the target Channel where you are doing the replacements.
 
